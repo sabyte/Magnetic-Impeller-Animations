@@ -1,0 +1,21 @@
+MAGNETIC IMPELLER ANIMATIONS — READY FOR GITHUB PAGES
+
+1. Extract this ZIP.
+2. Double-click index.html to try both animations locally.
+3. Create a GitHub repository, e.g. magnetic-impeller-animations.
+4. Add file > Upload files: upload EVERYTHING INSIDE this folder.
+   Upload the extracted files, not the ZIP.
+   index.html must be at the repository root.
+5. Commit to main.
+6. Settings > Pages > Deploy from a branch > main > / (root) > Save.
+7. Open the website URL shown in Pages when deployment finishes.
+
+No installation, build command, or GitHub Actions workflow needed.
+Keep styles.css and animations.js beside the three HTML files.
+
+The front view defaults to external anticlockwise.
+The side view defaults to external clockwise, with reversed illustrated flow.
+Both have a direction menu, play/pause, reset, loop, and image exports.
+
+Read README.md for details and MODEL-NOTES.md for the physical assumptions.
+GitHub Pages normally publishes a publicly accessible website.
